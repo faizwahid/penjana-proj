@@ -12,6 +12,7 @@ let navigate = navigate();
     <p>2022</p>
     <p>Faiz</p>
     <p>Farhan</p>
+    <p>heehhehe</p>
     <button className='border-2' onClick={navigate('landing')}>Go to landing page</button>
     </div>
     

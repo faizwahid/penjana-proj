@@ -8,7 +8,11 @@ let navigate = navigate();
 
   return (
     <div className="">
-    <p className='font-bold-text-3xl text-center'>Project Penjana</p>
+    <p className='font-bold text-3xl text-center'>Project Penjana</p>
+    <p>2022</p>
+    <p>Faiz</p>
+    <p>Farhan</p>
+    <p>heehhehe</p>
     <button className='border-2' onClick={navigate('landing')}>Go to landing page</button>
     </div>
     
